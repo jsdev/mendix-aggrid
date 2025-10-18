@@ -5,7 +5,7 @@
             <widgetFile path="AgGrid.xml"/>
         </widgetFiles>
         <files>
-            <file path="qvine/aggrid"/>
+            <file path="qvine"/>
         </files>
     </clientModule>
 </package>
